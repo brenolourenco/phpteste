@@ -1,7 +1,8 @@
 <?php
 
-	echo "Olá Mundo! Boa tarde!";
 
-	echo "E aí galera!!";
+	echo "Olá Mundo! Bom dia e Boa tarde!";
+
+	echo "E aí galera!! Fala rapaziada!";
 
 ?>
